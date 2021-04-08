@@ -1,0 +1,8 @@
+classes= 1
+train  = E:/MSCOCO/trainvalno5k.txt
+#train = E:/MSCOCO/5k.txt
+valid  = E:/MSCOCO/5k.txt
+names = ./yolo/coco.names
+backup = backup
+eval=coco
+
