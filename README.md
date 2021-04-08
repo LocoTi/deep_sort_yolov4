@@ -34,7 +34,7 @@ python main.py --weights "D:/work/code/python/yolov4/yolov4.weights" --input D:/
 
 评估结果不理想，与deep_sort官方结果相差甚远，后期需要改进的地方很多。
 
-![image-20210408223047817](图表库/image-20210408223047817.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/202104082231478.png)
 
 
 
